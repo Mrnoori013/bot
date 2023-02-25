@@ -1,4 +1,3 @@
-
 <?php
 /*
 نوشته شده توسط : @devbc
@@ -9,8 +8,8 @@
 date_default_timezone_set('Asia/Tehran');
 error_reporting(0);
 #-----------------------------#
-$token = "6152213353:AAEA5FF888kIwHop2t0u3w8IiWupTnyRIaU"; //Token
-$dev = "314807786"; //Id Admin
+$token = "[*[*TOKEN*]*]"; //Token
+$dev = "[*[*ADMIN*]*]"; //Id Admin
 #-----------------------------#
 define('API_KEY', $token);
 #-----------------------------#
